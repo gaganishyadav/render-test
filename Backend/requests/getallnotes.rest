@@ -2,11 +2,11 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-    "content": "messaging1",
+    "content": "Noteapp",
     "important": true
 }
 
 
 ###
 
-GET http://localhost:3001/api/
+GET http://localhost:3001/api/notes
